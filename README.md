@@ -16,5 +16,5 @@ Plotting the results
 
 
 <p align="center">
-<img src= https://i.imgur.com/50p6kfQ.png><br>
+<img src= https://i.imgur.com/4W5WtJH.png><br>
 </p>
