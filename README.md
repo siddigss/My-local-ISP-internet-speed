@@ -20,11 +20,11 @@ Plotting the results
 <img src= https://i.imgur.com/4W5WtJH.png><br>
 </p>
 
-# How to use it.
-* Download the repositry.
+# How to use it
+* Download the repository.
 * Right Click on ```collect_speeds.ps1``` and chose ```Run with PowerShell```.
 * The data will be written to a file named ```results.txt``` in the same directory as ```collect_speeds.ps1```.
-* Run the ```ploting results.ipynb```.
+* After collecting the data run the Jupyter Notebook```ploting results.ipynb```.
 
 # Notes/Issues
 * It only works on windows as it uses the PowerShell.
