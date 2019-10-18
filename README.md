@@ -20,7 +20,14 @@ Plotting the results
 <img src= https://i.imgur.com/4W5WtJH.png><br>
 </p>
 
+# How to use it.
+* Download the repositry.
+* Right Click on ```collect_speeds.ps1``` and chose ```Run with PowerShell```.
+* The data will be written to a file named ```results.txt``` in the same directory as ```collect_speeds.ps1```.
+* Run the ```ploting results.ipynb```.
+
 # Notes/Issues
+* It only works on windows as it uses the PowerShell.
 * It's data consuming (the data plotted above consumed several gigabytes).
 * The shell code occasionally throws an OutOfMemory Exception.
 * The native function getElementsByClassName occationally throws "Exception from HRESULT: 0x800A01B6", this is why the shellcode uses the following function instead.
