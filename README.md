@@ -1,7 +1,7 @@
 # My-local-ISP-internet-speed
 Collecting data and about Zain internet speed along with some inferences.
 
-# An Example.
+# An Example
 A sample from my results.txt (the file which the shellcode writes to).
 ```
 10/17/2019 2:47:01 AM
@@ -20,7 +20,7 @@ Plotting the results
 <img src= https://i.imgur.com/4W5WtJH.png><br>
 </p>
 
-# Notes/Issues.
+# Notes/Issues
 ..* It's data consuming (the data plotted above consumed several gigabytes).
 ..* The shell code occasionally throws an OutOfMemory Exception.
 ..* The native function getElementsByClassName occationally throws "Exception from HRESULT: 0x800A01B6", this is why the shellcode uses the following function instead.
