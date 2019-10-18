@@ -21,9 +21,9 @@ Plotting the results
 </p>
 
 # Notes/Issues
-..* It's data consuming (the data plotted above consumed several gigabytes).
-..* The shell code occasionally throws an OutOfMemory Exception.
-..* The native function getElementsByClassName occationally throws "Exception from HRESULT: 0x800A01B6", this is why the shellcode uses the following function instead.
+* It's data consuming (the data plotted above consumed several gigabytes).
+* The shell code occasionally throws an OutOfMemory Exception.
+* The native function getElementsByClassName occationally throws "Exception from HRESULT: 0x800A01B6", this is why the shellcode uses the following function instead.
 ```
 $list = $null
 #args[0] : tag name
