@@ -1,6 +1,7 @@
 # My-local-ISP-internet-speed
-collecting data and about Zain internet speed along with some inferences.
+Collecting data and about Zain internet speed along with some inferences.
 
+# An Example.
 A sample from my results.txt (the file which the shellcode writes to).
 ```
 10/17/2019 2:47:01 AM
